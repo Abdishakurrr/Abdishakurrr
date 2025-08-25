@@ -1,11 +1,12 @@
-# Hi there, I'm Abdishakur Mohamed 👋
+Hi, I'm Abdishakur Mohamed 👋
 
-I'm a Cybersecurity Graduate at Metro State University with hands-on experience in networking, security, and IT operations. I focus on practical learning and building real-world solutions.
+I graduated from Metro State University with a major in Cybersecurity and a minor in Computer Forensics. I have hands-on experience in networking, security, and IT operations, and I enjoy building practical solutions through labs and projects.
+
 
 ---
 
-## 🔭 I’m currently
-- Completed my studies in Cybersecurity with a minor in Computer Forensics  
+## 🔭 I'm currently
+- Cybersecurity graduate with a minor in Computer Forensics from Metro State University
 - Working on building my personal portfolio and GitHub projects focused on network security and automation  
 - Preparing for cybersecurity certifications and real-world internships
 
@@ -19,7 +20,7 @@ I'm a Cybersecurity Graduate at Metro State University with hands-on experience 
 
 ## 💻 Skills & Tools
 - **Networking:** Cisco, Meraki, Palo Alto, NetBox  
-- **Cybersecurity Tools:** Wireshark, Lansweeper, Splunk (basic)  
+- **Cybersecurity Tools:** Wireshark, Lansweeper, Splunk  
 - **Programming/Scripting:** Python (beginner), Bash, PowerShell  
 - **Platforms:** Windows, Linux  
 
